@@ -9,7 +9,4 @@ TODO:
 - Finden Sie "Verbesserungen" in den UserStories?
 
 # Definition of Done
-Bei "Definition of Done" sind vorrassetzungen beschrieben.
-Beim ""Konto öffnen" kann ein direkt ein betrag eingeahlt werden, der jedoch positiv sein muss.
-Nach ein und Auszahlungen muss das guthaben richtig aktuallisiert werden.
-Bei Kontoschließung wird das Restgeld ausgezahlt, sodass der Kontostand auf null ist.
+"Definition of Done" Ist eine checkliste vom Kunden, welche die anforderungen was zB das Programm können muss.
