@@ -1,0 +1,12 @@
+Muster „Arrange, Act, Assert“ (AAA) – Arrange (Vorbereitung)
+z.B. Objekte initialisieren, Testdaten (Parameter) erstellen
+– Act (Aktion)
+Aufruf der zu testenden Methode mit den Test-Parametern
+– Assert (Sicherstellung/Prüfung/Bestätigung)
+Verhalten/Ergebnis der Methode überprüfen
+• Positivtest (Standardfall)
+Ablauf der Methode im Normalfall z.B. anhand des 
+Rückgabewerts oder der Auswirkungen auf die Daten prüfen.
+• Negativtest (Fehlerfall)
+Sicherstellen, dass fehlerhafte/ungültige Testdaten oder 
+Konstellationen angemessen behandelt werden.
