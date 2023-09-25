@@ -19,3 +19,11 @@ User Stories werden nach dem folgenden muster geschrieben.
 
 1.3 Was ist diese „Definition of Done"?
 Die Definition of Done ist eine Art Checkliste, welche Qualitätskriterien enthält, die erfüllt sein müssen, um ein Feature als fertig anzusehen.
+
+
+weiteres:
+- Die Funktion der Klasse Konto soll mit UnitTests überprüft werden.
+- Diese Anleitung ist nicht mehr aktuell und muss überarbeitet werden. Screenshots wären sicherlich auch angebracht.
+- Bitte überprüfen:
+- Finden Sie Fehler in der Implementierung?
+- Finden Sie "Verbesserungen" in den UserStories?
