@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Bank
 {
     public class Konto
@@ -19,6 +20,7 @@ namespace Bank
             {
                 throw new ArgumentOutOfRangeException("Eröffnungsbetrag darf nicht negativ sein.");
             }
+
             this.guthaben = guthaben;
         }
 
