@@ -5,6 +5,8 @@ namespace Bank
     public class Konto
     {
         private double guthaben;
+        private static int countKonto;
+        private int kontoNr;
 
         public double Guthaben
         {
@@ -14,8 +16,19 @@ namespace Bank
             }
         }
 
+        public int KontoNr
+        {
+            get
+            {
+                return kontoNr;
+            }
+        }
+
         public Konto(double guthaben)
         {
+            countKonto++;
+            kontoNr = countKonto;
+
             if (guthaben < 0)
             {
                 throw new ArgumentOutOfRangeException("Eröffnungsbetrag darf nicht negativ sein.");
